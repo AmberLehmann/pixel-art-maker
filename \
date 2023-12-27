@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+
+div {
+  border: 1px solid black;
+}
+
+.pixel-container {
+  display: flex;
+  width: 800px;
+  flex-wrap: wrap;
+}
