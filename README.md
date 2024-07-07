@@ -1,2 +1,4 @@
 # pixel-art-maker
-Simple canvass to make pixel art
+Simple canvas to make pixel art.
+
+https://amberlehmann.github.io/pixel-art-maker/
